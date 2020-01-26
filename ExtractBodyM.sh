@@ -12,7 +12,7 @@ echo "The BodyM.csv file has been created"
 #cd to directory that holds the script: in this case eeb-c177-scripts
 #run command: chmod +x ExtractBodyM.sh
 #using a text editor open the .profile file located in the home directory. 
-#Enter to the next available line and type PATH="$PATH:$script-path-here" so I would type PATH="$HOME/Developer/repos/eeb-c177-scripts"
+#Enter to the next available line and type PATH="$PATH:$script-path-here" so I would type $PATH="$HOME/Developer/repos/eeb-c177-scripts"
 #Save file
 
 
