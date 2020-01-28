@@ -1,4 +1,4 @@
-#! /bin/bash 
+#!/bin/bash 
 #creating the BodyM.csv file from Pacifici data
 #tail -n +2 takes out header in Pacifici file
 #cut -d ";" -f 2-6 extracts columns 2-6 
